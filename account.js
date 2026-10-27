@@ -11,12 +11,12 @@ var telegram_channel_link = "https://t.me/evantopup";
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "https://t.me/evantopup1";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var youtube_channel_link = "https://youtube.com/@junaeedevan?si=03_iTMW2QAnyLZ0g";
 
 // =======================================================
 // NOTIFICATION TEXT
